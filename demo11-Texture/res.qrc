@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>shapes.frag</file>
+        <file>shapes.vert</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images/hutao.jpg</file>
+        <file>images/hutaoyao.jpg</file>
+        <file>images/hutaoqiqi.jpg</file>
+    </qresource>
+</RCC>
